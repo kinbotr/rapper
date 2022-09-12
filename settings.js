@@ -40,7 +40,7 @@ global.vcardowner = ['642727777777'] //ur owner number
 global.ownername = "rapper" //ur owner name
 global.ytname = "YT:rapper" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.location = "india, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['642727777777']
